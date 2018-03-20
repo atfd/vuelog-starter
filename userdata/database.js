@@ -4,7 +4,7 @@ window.VUELOG_DATABASE = {
 
   config: {
     // The name of your site, will be displayed in browser tab and site header.
-    brand: {'en-US': 'My first Vuelog'},
+    brand: {'en-US': 'JAMstack Bakery | Vuelog'},
 
     // The image displayed in site header right beside the brand.
     logo: './static/employbl_logo.png',
@@ -175,6 +175,7 @@ window.VUELOG_DATABASE = {
       category: 'docs',
       date: '2017-01-10'
     }
+    
   ]
 
 }
